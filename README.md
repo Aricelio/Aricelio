@@ -3,7 +3,7 @@
 My name is Aricelio, and I'm from Brazil (🇧🇷). I've been working as Back-End Developer since 2016.
 
 - 🔭 I’m currently working as a Back-End Engineer at @Avanade;
-- 🌱 I’m currently learning .NET and Javascript;
+- 🌱 I’m currently learning .NET, Javascript and React.js;
 - 📫 How to reach me:  
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aric%C3%A9lio-de-souza-fernandes-3998aa57/)](https://www.linkedin.com/in/aric%C3%A9lio-de-souza-fernandes-3998aa57/)
 
