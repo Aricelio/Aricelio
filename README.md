@@ -25,7 +25,9 @@ ____
 [![Aricelio's github stats](https://github-readme-stats.vercel.app/api?username=Aricelio&theme=dark&show_icons=true&count_private=true)](https://github.com/Aricelio)
 -->
 
-Glad to see you here! ![visitors](https://visitor-badge.glitch.me/badge?page_id=Aricelio.Aricelio)
+Glad to see you here! https://komarev.com/ghpvc/?username=Aricelio&color=2ecc71
+<!--![visitors](https://visitor-badge.glitch.me/badge?page_id=Aricelio.Aricelio) -->
+
 
 <!--
 **Aricelio/Aricelio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
