@@ -25,7 +25,7 @@ ____
 [![Aricelio's github stats](https://github-readme-stats.vercel.app/api?username=Aricelio&theme=dark&show_icons=true&count_private=true)](https://github.com/Aricelio)
 -->
 
-Glad to see you here! https://komarev.com/ghpvc/?username=Aricelio&color=2ecc71
+Glad to see you here! ![](https://komarev.com/ghpvc/?username=Aricelio&color=2ecc71)
 <!--![visitors](https://visitor-badge.glitch.me/badge?page_id=Aricelio.Aricelio) -->
 
 
