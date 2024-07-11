@@ -1,10 +1,10 @@
 ### Hi there 👋
 
 My name is Aricelio, and I'm from Brazil (🇧🇷). Welcome to my GitHub page!
-I started to learn about programming desde 2012 and I've been working as a Back-End Developer since 2016.
+I started to learn about programming since 2012 and I've been working as a Back-End Developer since 2016.
 
 Here are a few things about me:
-- 🔭 Currently I'm working as a Sennior Back-End Engineer at @Avanade;
+- 🔭 Currently I'm working as a Software Architect at @Avanade;
 - 🌱 I’m currently learning about .NET, Javascript and React.js;
 - 🐱 I love animals;
 
