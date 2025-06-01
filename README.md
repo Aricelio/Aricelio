@@ -4,8 +4,8 @@ My name is Aricelio, and I'm from Brazil (🇧🇷). Welcome to my GitHub page!
 I started to learn about programming since 2012 and I've been working as a Back-End Developer since 2016.
 
 Here are a few things about me:
-- 🔭 Currently I'm working as a Software Architect at @Avanade;
-- 🌱 I’m currently learning about .NET, Javascript and React.js;
+- 🔭 I'm working as a Software Architect at @Avanade;
+- 🌱 I’m currently learning about .NET, Rust and Python;
 - 🐱 I love animals;
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aric%C3%A9lio-de-souza-fernandes-3998aa57/)](https://www.linkedin.com/in/aric%C3%A9lio-de-souza-fernandes-3998aa57/)
